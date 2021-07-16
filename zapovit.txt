@@ -1,5 +1,6 @@
 
 Michael Romanyshyn
+Michael Romanyshyn's additional line
 Kushchevyy Dmytro
 Nataliia Kondratenko
 My second line
@@ -7,4 +8,10 @@ Severyn Chyzh
 Kushchevyy Dmytro  -  I like SoftServe
 Nataliia Kondratenko
 Have a good day
+Adolf Khedyk
+Adolf Khedyk Strikes again!
+
+
+
+
 
