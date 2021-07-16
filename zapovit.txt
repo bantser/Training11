@@ -1,4 +1,5 @@
 Michael Romanyshyn
+Michael Romanyshyn's additional line
 Kushchevyy Dmytro
 Nataliia Kondratenko
 Oles Vykhovanok - Lviv
@@ -6,4 +7,6 @@ My second line
 Severyn Chyzh
 Kushchevyy Dmytro  -  I like SoftServe
 Nataliia Kondratenko
+Adolf Khedyk
+Adolf Khedyk Strikes again!
 
