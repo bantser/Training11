@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Michael Romanyshyn
-=======
 Kushchevyy Dmytro
 Nataliia Kondratenko
->>>>>>> 8dd9118942578adfda9e1560f13dd56d75e32304
+Severyn Chyzh
